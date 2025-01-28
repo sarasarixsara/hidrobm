@@ -1,55 +1,58 @@
-import img1 from "./assets/solar3.png";
-import img2 from "./assets/wind.png";
+import img1 from "./assets/equipos.jpeg";
+import img2 from "./assets/pool.jpg";
 // TODO
-import img3 from "./assets/hydro.png";
-import img4 from "./assets/storage.png";
+import img3 from "./assets/motobombas.jpeg";
+import img4 from "./assets/tubo.jpg";
 // TODO
-import img5 from "./assets/smart-grid.png";
+import img5 from "./assets/electrico.jpeg";
 import img6 from "./assets/green.png";
 
 export const servicesSectionData = {
-  title: "Our Sustainable Energy Solutions",
+  title: "Servicios y herramientas",
   subheading: {
-    text1_1: "Experience a Revolution in Energy Solutions - ",
-    text1_2: "Embrace Innovation, Embrace Sustainability.",
+    text1_1: "Expertos en Mantenimiento ",
+    text1_2: "de Motobombas y Piscinas: ",
     text2:
-      "We're here to Empower Your Life and Spaces with Clean, Renewable Energy, Paving the Way for a Brighter and Greener Tomorrow.",
+      "Trabajamos con las Marcas Líderes del Mercado para Ofrecerte Soluciones Confiables y Duraderas.",
   },
   services: [
     {
-      title: "Solar Power Solutions",
+      title: " Equipos de presion, eyectores y contra incendio",
       briefDescription:
-        "Harness the power of the sun with our state-of-the-art solar panels. Generate clean energy for your home or business and reduce your carbon footprint.",
+        "Ofrecemos soluciones integrales que incluyen cálculo, instalación, puesta en marcha y mantenimiento preventivo y correctivo. Garantizamos un funcionamiento óptimo y seguro de tus sistemas, con tecnología de vanguardia y personal altamente calificado",
       visual: img1,
     },
     {
-      title: "Wind Energy Harvesting",
+      title: "Piscinas",
       briefDescription:
-        "Embrace the power of the wind. Our wind energy solutions provide a sustainable and efficient way to generate electricity, ensuring a greener future.",
+        "Reparación, servicio de tratamiento del agua, salvavidas y aseo de todos \n" +
+          "los alrededores de la piscina, incluyendo playas, baterías de baños, duchas etc. \n" +
+          "(tratamiento con cloro o con sal marina) mantenimiento preventivo y correctivo de \n" +
+          "todos sus equipos eléctricos, hidráulicos y electrónicos.",
       visual: img2,
     },
     {
-      title: "Hydropower Systems",
+      title: "Motobombas",
       briefDescription:
-        "Flow with nature. Our hydropower systems harness the energy of flowing water, delivering reliable and eco-friendly electricity to your doorstep.",
+        "PEDROLLO, PEARL, IHM, BARNES, BARMESA, AQUA PACK SILVER, EVANS .",
       visual: img3,
     },
     {
-      title: "Energy Storage Solutions",
+      title: "Tuberias y accesorios",
       briefDescription:
-        "Store excess energy efficiently. Our cutting-edge energy storage solutions ensure uninterrupted power supply, even during cloudy days or low-wind periods.",
+        "PVC, GALVANIZADO, ACERO PAVCO, DURMAN, CELTA .",
       visual: img4,
     },
     {
-      title: "Smart Grid Technology",
+      title: "Maniobras eléctricas",
       briefDescription:
-        "Navigate the future with our smart grid technology. Optimize energy distribution, monitor consumption, and contribute to a more sustainable and efficient energy ecosystem.",
+        "LG, SIEMENS, WEG, SCHNEIDER, STECK, TELEMECANIQUE, SIEMENS   .",
       visual: img5,
     },
     {
-      title: "Energy-efficient Lighting",
+      title: "Distribuidores directos de:",
       briefDescription:
-        "Illuminate your space responsibly. Our energy-efficient lighting solutions provide bright, sustainable, and cost-effective illumination for homes and businesses.",
+        " PEDROLLO, AQUATRECE, ALTAMIRA WATER, BARMESA. ",
       visual: img6,
     },
   ],

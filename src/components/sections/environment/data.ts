@@ -1,19 +1,19 @@
 import img from "./assets/green-hands.png";
 
 export const environmentalImpactSection = {
-  title: "Environmental Impact",
-  subheading1_1: "Choosing [Company Name] for a",
-  subheading1_2: " Greener Tomorrow",
+  title: "¿Por Qué Elegirnos?",
+  subheading1_1: "Solucione sintegrales con",
+  subheading1_2: " Marcas Líderes en el Sector",
   description:
-    "At [Company Name], we are committed to making a positive impact on the environment. By choosing our sustainable energy solutions, you contribute to:",
+    "Nuestro equipo de ingenieros y técnicos altamente calificados está listo para brindarte un servicio profesional, eficiente y disponible las 24 horas del día. Confía en nosotros para mantener tus equipos en óptimas condiciones y disfruta de la tranquilidad que solo los expertos pueden ofrecer.",
   impactPoints: [
-    "Reducing Carbon Emissions",
-    "Conserving Natural Resources",
-    "Preserving Biodiversity",
-    "Mitigating Climate Change",
-    "Promoting a Cleaner and Healthier Planet",
+    "Personal Calificado: Contamos con ingenieros y técnicos especializados en hidráulica, electricidad y electrónica.",
+    "Marcas Reconocidas: Trabajamos con las mejores marcas: Pedrollo, Siemens, Schneider y más.",
+    "Garantía y Confianza: Ofrecemos garantía de 2 a 5 años en equipos nuevos y mantenimientos registrados.",
+    "Servicio 24/7: Estamos disponibles para emergencias en cualquier momento.",
+
   ],
   visual: img,
   callToAction: "Join Us in Building a Sustainable Future",
-  button: "Learn More",
+  button: "Conoce mas",
 };

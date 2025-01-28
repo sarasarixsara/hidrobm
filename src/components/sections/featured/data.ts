@@ -1,31 +1,31 @@
-import img1 from "./assets/solar-person.png";
+import img1 from "./assets/campin.jpeg";
 import img2 from "./assets/wind-person.png";
 import img3 from "./assets/amazonas2.png";
 
 export const projectsSection = {
-  title: "Featured Projects",
-  subheading1_1: "Explore Our Successful ",
-  subheading1_2: "Green Energy Endeavors",
+  title: "Proyectos Desarrollados",
+  subheading1_1: "Lo Que Hemos Logrado para  ",
+  subheading1_2: "Nuestros Clientes",
   projects: [
     {
-      title: "Solar-Powered Community",
+      title: "EQUIPOS DE PRESIÓN PARA AGUA POTABLE",
       description:
-        "Empowering a community with sustainable solar energy solutions. Learn how [Company Name] brought clean and affordable electricity to homes, schools, and businesses.",
-      location: "Los Angeles, California, USA",
+        "Hemos tenido el privilegio de proveer equipos de presión para agua potable a importantes instalaciones, como el emblemático Estadio El Campín. Nuestros equipos garantizan eficiencia y calidad en cada proyecto..",
+      location: " ESTADIO EL CAMPIN",
       visual: img1,
     },
     {
-      title: "Wind Farm Innovation",
+      title: "MANTENIMIENTO Y REPARACIÓN DE PISCINAS",
       description:
-        "Revolutionizing wind energy with our innovative wind farm. Discover how [Company Name] is harnessing the power of the wind to create a greener and more sustainable future.",
-      location: "Scottish Highlands, United Kingdom",
+        "Contamos con experiencia en el mantenimiento y reparación integral de piscinas, desde el diagnóstico hasta la ejecución. Nuestro enfoque incluye procesos rigurosos de reparación y pruebas finales para asegurar piscinas en perfecto estado.",
+      location: "PISCINA CONSTRUCTORA AMARILO – RICAURTE",
       visual: img2,
     },
     {
-      title: "Hydropower Plant Success",
+      title: "TRATAMIENTO DE PISCINAS ",
       description:
-        "A journey into our hydropower success story. Explore how [Company Name] transforms the energy of flowing water into a reliable and eco-friendly power source.",
-      location: "Amazon Rainforest, South America",
+          "Ofrecemos soluciones completas para el tratamiento de piscinas, asegurando calidad y asepsia. Algunos de nuestros contratos incluyen el suministro de equipos especializados y la implementación de procesos para mantener el agua cristalina y segura.",
+      location: "BOSQUE SAN ANGEL Y LA HACIENDA CONDOMINIO CAMPESTRE ",
       visual: img3,
     },
   ],
