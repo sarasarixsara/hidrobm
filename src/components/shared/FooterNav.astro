@@ -1,13 +1,9 @@
 ---
 export interface Props{
     title:string,
-    navItems:{
-        itemText:string,
-        itemLink:string
-    }[]
 }
 
-const {title, navItems} = Astro.props
+const {title,} = Astro.props
 ---
 
 <nav class="space-y-1">

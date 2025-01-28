@@ -4,80 +4,7 @@ import Container from "../components/shared/Container.astro";
 import FooterNav from "../components/shared/FooterNav.astro";
 import Paragraph from "../components/shared/Paragraph.astro";
 
-const footerNav1 = [
-  // {
-  //   itemText: "Marketing",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Analylitics",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Commerce",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Insights",
-  //   itemLink: "#",
-  // },
-];
 
-const footerSupport = [
-  // {
-  //   itemText: "Pricing",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Guides",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "FAQ",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Contact",
-  //   itemLink: "#",
-  // },
-];
-
-const footerCompany = [
-  // {
-  //   itemText: "About",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Blog",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Jobs",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Parteners",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Jobs",
-  //   itemLink: "#",
-  // },
-];
-const footerLegal = [
-  // {
-  //   itemText: "Claim",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Privacy",
-  //   itemLink: "#",
-  // },
-  // {
-  //   itemText: "Terms",
-  //   itemLink: "#",
-  // },
-];
 ---
 
 <div class="relative mt-16 bg-base-200 dark:bg-base-dark-800">
@@ -168,13 +95,13 @@ const footerLegal = [
         </div>
 
         <GroupFooterNav>
-          <FooterNav title={"Servicios"} navItems={footerCompany} />
-          <FooterNav title={"Quienes somos"} navItems={footerNav1} />
+          <FooterNav title={"Servicios"} />
+          <FooterNav title={"Quienes somos"}  />
         </GroupFooterNav>
 
         <GroupFooterNav>
-          <FooterNav title={"Proyectos"} navItems={footerSupport} />
-          <FooterNav title={"Ressources"} navItems={footerLegal} />
+          <FooterNav title={"Proyectos"}  />
+          <FooterNav title={"Ressources"}  />
         </GroupFooterNav>
       </div>
     </Container>
