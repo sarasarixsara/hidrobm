@@ -1,6 +1,6 @@
 import img1 from "./assets/campin.jpeg";
-import img2 from "./assets/wind-person.png";
-import img3 from "./assets/amazonas2.png";
+import img2 from "./assets/amarilo.jpeg";
+import img3 from "./assets/piscina.jpeg";
 
 export const projectsSection = {
   title: "Proyectos Desarrollados",

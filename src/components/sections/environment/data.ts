@@ -2,7 +2,7 @@ import img from "./assets/green-hands.png";
 
 export const environmentalImpactSection = {
   title: "¿Por Qué Elegirnos?",
-  subheading1_1: "Solucione sintegrales con",
+  subheading1_1: "Soluciones integrales con",
   subheading1_2: " Marcas Líderes en el Sector",
   description:
     "Nuestro equipo de ingenieros y técnicos altamente calificados está listo para brindarte un servicio profesional, eficiente y disponible las 24 horas del día. Confía en nosotros para mantener tus equipos en óptimas condiciones y disfruta de la tranquilidad que solo los expertos pueden ofrecer.",
