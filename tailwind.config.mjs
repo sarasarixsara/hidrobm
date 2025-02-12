@@ -58,13 +58,13 @@ export default {
           200: "#99ddfe",
           300: "#66cbfe",
           400: "#33bafd",
-          500: "#3cafe7",  // Este es el nuevo primary-500
-          DEFAULT: "#3cafe7",  // También se usa como valor por defecto
-          600: "#3399cc",
-          700: "#2a83b0",
-          800: "#206c94",
-          900: "#175677",
-          950: "#0d3f5b",
+          500: "#0e6c99",  // Nuevo primary-500
+          DEFAULT: "#0e6c99",  // Valor por defecto actualizado
+          600: "#0c5c82",
+          700: "#0a4c6b",
+          800: "#083c54",
+          900: "#062c3d",
+          950: "#041c26",
         },
         secondary: {
           50: "#edfaff",
