@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5c90d33-a3a6-475a-99ce-07f833a16b2c" name="Changes" comment="paths" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\laragon\bin\php\php-7.4.33-Win32-vc15-x64\php.exe" />
+  <component name="ProjectId" id="2sDoEowkaR7BP1u6mwZmrQj9zF2" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/WALTER/Documents/energy-template/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Users\\WALTER\\Documents\\energy-template\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\WALTER\Documents\energy-template\public" />
+      <recent name="D:\Users\WALTER\Documents\energy-template\src\components\sections\featured\assets" />
+      <recent name="D:\Users\WALTER\Documents\energy-template\src\components\sections\services\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\WALTER\Documents\energy-template\public" />
+      <recent name="D:\Users\WALTER\Documents\energy-template\src\components\sections\services\assets" />
+      <recent name="D:\Users\WALTER\Documents\energy-template\src\components\sections\featured\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c90d33-a3a6-475a-99ce-07f833a16b2c" name="Changes" comment="" />
+      <created>1737999397728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737999397728</updated>
+      <workItem from="1737999398836" duration="3790000" />
+      <workItem from="1738031358670" duration="16257000" />
+      <workItem from="1738158782737" duration="34000" />
+      <workItem from="1739391395844" duration="2357000" />
+      <workItem from="1739395452363" duration="21000" />
+    </task>
+    <task id="LOCAL-00001" summary="hidro bm">
+      <option name="closed" value="true" />
+      <created>1738040403869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738040403869</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed base">
+      <option name="closed" value="true" />
+      <created>1738042062951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738042062951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="style">
+      <option name="closed" value="true" />
+      <created>1738082513717</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738082513717</updated>
+    </task>
+    <task id="LOCAL-00004" summary="logo">
+      <option name="closed" value="true" />
+      <created>1739392547191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739392547191</updated>
+    </task>
+    <task id="LOCAL-00005" summary="paths">
+      <option name="closed" value="true" />
+      <created>1739393340355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739393340355</updated>
+    </task>
+    <task id="LOCAL-00006" summary="paths">
+      <option name="closed" value="true" />
+      <created>1739393483696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739393483696</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hidro bm" />
+    <MESSAGE value="changed base" />
+    <MESSAGE value="style" />
+    <MESSAGE value="logo" />
+    <MESSAGE value="paths" />
+    <option name="LAST_COMMIT_MESSAGE" value="paths" />
+  </component>
+</project>
